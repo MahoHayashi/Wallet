@@ -21,10 +21,10 @@ struct Profile {
 extension Profile {
     /// ここを自分のプロフィールに書き換える
     static let mine = Profile(
-        birthday: "2005/04/11",
-        name: "MAHO HAYASHI",
-        university: "Life is Tech!",
-        favorite: "Swift/iOS Engineer",
+        birthday: "2006/02/16",
+        name: "MAPOKO",
+        university: "Ritsumeikan",
+        favorite: "K-POP/Anime/Nail",
         barcodeMessage: "https://x.com/"
     )
 }

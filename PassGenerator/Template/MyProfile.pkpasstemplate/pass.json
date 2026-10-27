@@ -1,0 +1,50 @@
+{
+  "backgroundColor" : "rgb(229,229,229)",
+  "barcodes" : [
+    {
+      "_id" : "D940D0DE-8328-4361-95D2-2286BE23224C",
+      "format" : "PKBarcodeFormatQR",
+      "message" : "1234",
+      "messageEncoding" : "iso-8859-1"
+    }
+  ],
+  "description" : "",
+  "formatVersion" : 1,
+  "organizationName" : "",
+  "passTypeIdentifier" : "pass.app.hayashi.mapoko.profile",
+  "posterGeneric" : {
+    "footerFields" : [
+      {
+        "_id" : "CF3D2936-B50B-4B83-8BE3-08C4AB31D8D9",
+        "key" : "FOOTER_ID",
+        "textAlignment" : "PKTextAlignmentNatural",
+        "value" : "K-POP\/Anime\/Nail"
+      }
+    ],
+    "headerFields" : [
+      {
+        "_id" : "225E6AE5-80C1-45AC-BAC7-EC613D57AAD8",
+        "key" : "BIRTHDAY_ID",
+        "label" : "BIRTHDAY",
+        "textAlignment" : "PKTextAlignmentNatural",
+        "value" : "2006\/02\/16"
+      }
+    ],
+    "primaryFields" : [
+      {
+        "_id" : "CDA6A38E-7953-4186-9070-3B38D692BACC",
+        "key" : "NAME_ID",
+        "value" : "MAPOKO"
+      },
+      {
+        "_id" : "C0B604ED-2EAA-4727-AD5A-AA5E55AFD4C9",
+        "key" : "UNIVERSITY_ID",
+        "label" : "UNIVERSITY",
+        "textAlignment" : "PKTextAlignmentNatural",
+        "value" : "Ritsumeikan"
+      }
+    ]
+  },
+  "serialNumber" : "",
+  "teamIdentifier" : "2377WXD7HV"
+}
