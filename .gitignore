@@ -1,0 +1,15 @@
+.DS_Store
+xcuserdata/
+
+# PassGenerator
+PassGenerator/.build/
+PassGenerator/.swiftpm/
+
+# 証明書と秘密鍵は絶対にコミットしない
+PassGenerator/Certificates/*
+!PassGenerator/Certificates/.gitkeep
+*.p12
+*.cer
+
+# 個人情報入りの署名済みパス
+*.pkpass
